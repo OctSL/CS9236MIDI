@@ -2,6 +2,12 @@
 
 WaveBlaster port MIDI device.
 
+Open it in EazyEDA! (https://lceda.cn)
+
 I did not draw any schematic(only PCB here).
 
 Gerber file is in "Release".
+
+![O(XXE~G)$TL4NE4W}EDV)6C](https://user-images.githubusercontent.com/69373938/167431826-73e7a6cc-e68c-4bfc-b989-7fb09cd1bd7a.png)
+
+
